@@ -1,0 +1,11 @@
+Z:\c#\EnemySubtype\EnemySubtype\bin\Debug\netcoreapp2.1\EnemySubtype.deps.json
+Z:\c#\EnemySubtype\EnemySubtype\bin\Debug\netcoreapp2.1\EnemySubtype.runtimeconfig.json
+Z:\c#\EnemySubtype\EnemySubtype\bin\Debug\netcoreapp2.1\EnemySubtype.runtimeconfig.dev.json
+Z:\c#\EnemySubtype\EnemySubtype\bin\Debug\netcoreapp2.1\EnemySubtype.dll
+Z:\c#\EnemySubtype\EnemySubtype\bin\Debug\netcoreapp2.1\EnemySubtype.pdb
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.csprojAssemblyReference.cache
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.csproj.CoreCompileInputs.cache
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.AssemblyInfoInputs.cache
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.AssemblyInfo.cs
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.dll
+Z:\c#\EnemySubtype\EnemySubtype\obj\Debug\netcoreapp2.1\EnemySubtype.pdb
